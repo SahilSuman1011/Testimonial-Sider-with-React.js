@@ -1,2 +1,2 @@
-# Testimonial Sider with React.js
- Testimonial Sider made  with React.js
+# Testimonial Slider with React.js
+ Testimonial Slider made  with React.js
